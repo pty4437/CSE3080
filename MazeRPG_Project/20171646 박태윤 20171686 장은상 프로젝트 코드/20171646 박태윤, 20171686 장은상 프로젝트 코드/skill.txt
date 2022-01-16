@@ -1,0 +1,31 @@
+15
+NormalAtk
+0 0 0 -1
+Kick
+5 5 0 -1
+Slash
+10 10 0 -1
+HeadSmash
+20 20 0 -1
+Heal
+0 0 1 1
+FireBall
+30 30 0 -1
+PowerSlash
+15 10 0 -1
+Tackle
+20 10 0 -1
+PointAttack
+30 30 0 -1
+AidKit
+0 0 2 1
+FastHeal
+0 0 3 1
+FA
+-30 0 0 -1
+Meteor
+80 80 0 -1
+Poison
+30 10 0 -1
+B.FSword
+40 30 0 -1

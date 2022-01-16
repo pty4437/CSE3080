@@ -1,0 +1,41 @@
+
+WoodStick
+5 -3 0 0
+RustySword
+10 -5 0 0
+SteelSword
+15 -5 0 0
+ThinSword
+10 0 -5 0
+SaCamGinGemJumGum
+35 0 20 0
+ThrowingStone
+5 5 -10 0
+OldBow
+10 5 -10 0
+Bow
+15 5 -10 0
+CrossBow
+20 0 -10 0
+ComHwal
+25 20 0 0
+LongStick
+5 -3 5 0
+OldSpear
+15 -6 5 0
+StealSpear
+20 -7 5 0
+Halberd
+20 0 5 0
+TenChang
+30 15 0 0
+Clothe
+0 0 20 0
+Armor
+0 -3 30 0
+JangMunBok
+0 50 30 0
+Probation
+-20 -20 -20 0
+RetakeA-
+20 20 20 0
